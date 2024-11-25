@@ -1,0 +1,2 @@
+# sulerr
+AI project
